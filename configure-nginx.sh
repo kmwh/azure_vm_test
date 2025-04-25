@@ -13,4 +13,4 @@ sudo add-apt-repository multiverse
 sudo apt-get install -y nginx
 
 # Set the home page.
-echo "<html><body><h2>202112304 김원호</h2></body></html>" | sudo tee -a /var/www/html/index.html
+echo "<html><body><h2>202112304 KIMWONHO</h2></body></html>" | sudo tee -a /var/www/html/index.html
